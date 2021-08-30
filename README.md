@@ -1,6 +1,6 @@
 
 
-## Namaste 🙏 / Tjena! 👋
+## Namaste 🙏 / Tjena! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is Harish! I am a Frontend engineer, I like to build seamless user-experiences on web  and I have a keen-interest in web performance.
 
