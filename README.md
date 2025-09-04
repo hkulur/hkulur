@@ -6,10 +6,9 @@ I am Harish, a Frontend engineer, who likes to build seamless user-experiences o
 
 My areas of interest are:
 
-- 🔭 I’m currently working on : all things frontend (JS, React, CSS, webpack) - Lead Frontend [@comeon-group](https://wearecomeon.com/)
-- 🌱 I’m currently learning: Typescript, D3 & data-visualization in JS 💚
+- 🔭 I’m currently working on : all things frontend (JS, TS, React, CSS, Next.js) - Lead Frontend [@comeon-group](https://wearecomeon.com/)
 - 📫 You can reach me : kulur.harish@gmail.com
-- ⚡ Fun fact : I enjoy running, drama movies/series and cooking vegetarian food 🌱
+- ⚡ Fun fact : I enjoy running, travelling and cooking  🌱
 
  [Twitter](https://twitter.com/hkulur) | 
  [LinkedIn](https://linkedin.com/in/harishkulur) | 
